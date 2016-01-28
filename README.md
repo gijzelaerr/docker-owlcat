@@ -1,5 +1,5 @@
-# docker-meqtrees
-Docker files for meqtrees
+# owlcat
+Docker files for owlcat
 
 
-https://hub.docker.com/r/radioastro/meqtrees
+https://hub.docker.com/r/radioastro/owlcat/
